@@ -18,7 +18,7 @@ author_profile: true
 * 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
 
 ## 썸머 (2018.07 - 2019.04)
-<details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary></details>
+<details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary>
 <div markdown="1">
 > 개발 인원 : 2인  
 > 클라이언트 환경 : vue  
@@ -30,6 +30,7 @@ author_profile: true
  회원사 내에서 테스트했을 때 유저의 몰 진입 대비 주문 전환율이 10%정도로 나타나기도 했습니다.  
 해당 서비스의 서버와 백오피스 클라이언트를 개발하였습니다. 프라이빗 몰 클라이언트는 Cafe24 서비스를 활용했습니다.  
 </div>
+</details>
 
 <details><summary>AWS 비용 최적화 (2018.10)</summary>
 <div markdown="1">
