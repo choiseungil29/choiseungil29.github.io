@@ -7,7 +7,7 @@ author_profile: true
 연락처 : (+82) 010-9034-5202  
 이메일 : choiseungil29@gmail.com
 
-## Skills
+## 개발 환경
 
 * 언어: Python, Javascript, C/C++, Java
 * 웹 프레임워크 : Flask, Koa
