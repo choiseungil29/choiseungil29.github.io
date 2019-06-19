@@ -106,11 +106,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "최 승일"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "하지 않아도 되는 일을 하지 않는것"
+  location         : "서울시 강남구"
+  email            : "choiseungil29@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
