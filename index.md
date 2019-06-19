@@ -15,6 +15,7 @@ author_profile: true
 * 웹 서버 : Nginx
 * 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
 * 개발 도구 : Vim, Git
+* 그 외 : AWS(EC2, RDS, Lambda, S3, ...)
 
 ## 이력
 썸머 (2018.07 - 2019.04) 비즈니스 개발자  
