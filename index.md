@@ -17,13 +17,8 @@ author_profile: true
 * 개발 도구 : Vim, Git
 * 그 외 : AWS(EC2, RDS, Lambda, S3, ...)
 
-## 이력
-썸머 (2018.07 - 2019.04) 비즈니스 개발자  
-블루홀 (2017.11 - 2018.02) 게임서버 개발자  
-이노스파크 (2016.11 - 2017.10) 게임서버 개발자  
-
-## 포트폴리오 (회사)
-### 주문완료 페이지 트래픽 재활용 프로젝트 Loopsum (2018.11)
+## 썸머 (2018.07 - 2019.04)
+### 주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)
 > 개발 인원 : 2인  
 > 클라이언트 환경 : vue  
 > 백엔드 환경 : flask, postgresql  
@@ -39,7 +34,7 @@ author_profile: true
  기존 AWS 월간 비용이 400만원을 넘는 시점이 있었습니다. EC2와 RDS의 스펙을 조절하여 비용을 절감했습니다. S3에서도 CloudFront를 붙여 월간 비용을 200만원가량 절감했습니다.
 
 
-### 쇼핑몰 플러그인 프로젝트 1mm (2018.07)
+### 쇼핑몰 플러그인 프로젝트 1mm 클라이언트/백엔드 개발 (2018.07)
 > 개발 인원 : 3인  
 > 클라이언트 환경 : vue, nuxt  
 > 백엔드 환경 : koa, mysql  
@@ -52,7 +47,8 @@ author_profile: true
 2. cafe24 api만들 처리하고 돌려주는 공용 cafe24 api서버를 만들었습니다. 플러그인을 만들때마다 중복적으로 작성해야 하는 코드들을 작성할 필요가 없게 되었습니다.
 	
 
-### Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축 (2017.04 - 2018.02)
+## 블루홀 (2017.11 - 2018.02)
+### Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 1명  
 > 클라이언트 환경 : Unity, C# Protobuf  
 > 백엔드 환경 : Python, Flask, PostgreSQL, SQLAlchemy + Alembic, nginx, uwsgi, Celery, Protobuf, Jenkins, Docker, ELK, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [ES](https://aws.amazon.com/elasticsearch-service), [ElastiCache Redis](https://aws.amazon.com/elasticache), [S3](https://aws.amazon.com/s3), [Lambda](https://aws.amazon.com/lambda), [RDS](https://aws.amazon.com/rds), [ECS](https://aws.amazon.com/ecs)]
@@ -67,8 +63,8 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 
 4. 클라이언트에서 재화 발생 event나 등등의 event가 발생하면 클라이언트에서는 선 반영을 하고, event list를 서버 요청마다 request header에 실어 보내는 방법을 제안하고 적용하였습니다. 이것으로 기존 방치형 게임들의 문제였던 재화 버그 & 스피드핵 해결할 수 있게 되었습니다.	
 	
-
-### Android/iOS 방치형 게임 '환생기사단' API 개발 (2016.11 - 2017.03)
+## 이노스파크 (2016.11 - 2017.11)
+### Android/iOS 방치형 게임 '환생기사단' API 개발
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 2명  
 > 클라이언트 환경 : Unity, C#  
 > 백엔드 환경 : Python, Flask, PostgreSQL, SQLAlchemy, nginx, uwsgi, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [S3](https://aws.amazon.com/s3/)]
