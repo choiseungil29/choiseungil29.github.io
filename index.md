@@ -8,8 +8,13 @@ author_profile: true
 이메일 : choiseungil29@gmail.com
 
 ## 주 개발 환경
-python - flask, jinja2  
-js - vuejs, nodejs, koa  
+
+* 언어: Python, Javascript, C/C++, Java
+* 웹 프레임워크 : Flask, Koa
+* 프론트 : Vue, Jinja
+* 웹 서버 : Nginx
+* 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
+* 개발 도구 : Vim, Git
 
 ## 이력
 썸머 (2018.07 - 2019.04) 비즈니스 개발자  
