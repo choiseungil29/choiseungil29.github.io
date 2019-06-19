@@ -19,7 +19,7 @@ author_profile: true
 
 ## 썸머 (2018.07 - 2019.04)
 <details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary>
-<p>
+<div markdown="1">
 > 개발 인원 : 2인  
 > 클라이언트 환경 : vue  
 > 백엔드 환경 : flask, postgresql  
@@ -29,17 +29,17 @@ author_profile: true
 회원사 A의 주문 완료 페이지에 loopsum 자체 몰에 대한 광고를 노출시키고, loopsum에서는 A사의 제품 + 그 외의 제품을 최저가로 판매하도록 하는 정책으로 이미 1번 구매 이력이 있는 소비자가 다시 제품에 노출되는 방식의 광고 플랫폼 + 프라이빗 몰 서비스입니다.  
  회원사 내에서 테스트했을 때 유저의 몰 진입 대비 주문 전환율이 10%정도로 나타나기도 했습니다.  
 해당 서비스의 서버와 백오피스 클라이언트를 개발하였습니다. 프라이빗 몰 클라이언트는 Cafe24 서비스를 활용했습니다.  
-</p>
+</div>
 </details>
 
 <details><summary>AWS 비용 최적화 (2018.10)</summary>
-<p>
+<div markdown="1">
  기존 AWS 월간 비용이 400만원을 넘는 시점이 있었습니다. EC2와 RDS의 스펙을 조절하여 비용을 절감했습니다. S3에서도 CloudFront를 붙여 월간 비용을 200만원가량 절감했습니다.
-</p>
+</div>
 </details>
 
 <details><summary>쇼핑몰 플러그인 프로젝트 1mm 클라이언트/백엔드 개발</summary><details>
-<p>
+<div markdown="1">
 > 개발 인원 : 3인  
 > 클라이언트 환경 : vue, nuxt  
 > 백엔드 환경 : koa, mysql  
@@ -50,7 +50,7 @@ author_profile: true
  
 1. nuxt client를 vue로 대체하고, api서버만 남겨두어 nuxt서버와 api서버 사이에서 어느곳에 작성해야할지에 대한 고민비용을 줄였습니다.
 2. cafe24 api만들 처리하고 돌려주는 공용 cafe24 api서버를 만들었습니다. 플러그인을 만들때마다 중복적으로 작성해야 하는 코드들을 작성할 필요가 없게 되었습니다.
-</p>	
+</div>	
 
 ## 블루홀 (2017.11 - 2018.02)
 ### Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축
