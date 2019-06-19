@@ -2,8 +2,6 @@
 layout: single
 author_profile: true
 ---
-
-
 # 최 승일
 생년월일 : 1996. 11. 03  
 연락처 : (+82) 010-9034-5202  
