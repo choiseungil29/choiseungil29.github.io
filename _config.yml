@@ -110,7 +110,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "하지 않아도 되는 일을 하지 않는것"
   location         : "서울시 강남구"
-  email            : "choiseungil29@gmail.com"
   links:
     - label: "choiseungil29@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
