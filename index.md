@@ -14,7 +14,7 @@ author_profile: true
 * 프론트 : Vue, Jinja
 * 웹 서버 : Nginx
 * 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
-* 개발 도구 : Vim, Git
+* 개발 도구 : Vim, Git, tmux, zsh, ...
 * 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
 
 ## 썸머 (2018.07 - 2019.04)
@@ -53,7 +53,8 @@ author_profile: true
 </div>	
 
 ## 블루홀 (2017.11 - 2018.02)
-### Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축
+<details><summary>Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축</summary></details>
+<div markdown="1">
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 1명  
 > 클라이언트 환경 : Unity, C# Protobuf  
 > 백엔드 환경 : Python, Flask, PostgreSQL, SQLAlchemy + Alembic, nginx, uwsgi, Celery, Protobuf, Jenkins, Docker, ELK, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [ES](https://aws.amazon.com/elasticsearch-service), [ElastiCache Redis](https://aws.amazon.com/elasticache), [S3](https://aws.amazon.com/s3), [Lambda](https://aws.amazon.com/lambda), [RDS](https://aws.amazon.com/rds), [ECS](https://aws.amazon.com/ecs)]
@@ -67,9 +68,11 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 3. 게임 내 메타데이터를 excel to csv로 변환하여 사용하던것을 excel to json으로 변환하도록 수정하여 타입 관련 에러를 조기에 발견할 수 있도록 하였습니다.
 
 4. 클라이언트에서 재화 발생 event나 등등의 event가 발생하면 클라이언트에서는 선 반영을 하고, event list를 서버 요청마다 request header에 실어 보내는 방법을 제안하고 적용하였습니다. 이것으로 기존 방치형 게임들의 문제였던 재화 버그 & 스피드핵 해결할 수 있게 되었습니다.	
+</div>
 	
 ## 이노스파크 (2016.11 - 2017.11)
-### Android/iOS 방치형 게임 '환생기사단' API 개발
+<details><summary>Android/iOS 방치형 게임 '환생기사단' API 개발</summary></details>
+<div markdown="1">
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 2명  
 > 클라이언트 환경 : Unity, C#  
 > 백엔드 환경 : Python, Flask, PostgreSQL, SQLAlchemy, nginx, uwsgi, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [S3](https://aws.amazon.com/s3/)]
@@ -82,10 +85,12 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 
 1. api마다 테스트하고 docstring을 남겨두었습니다. 그리고 이를 뽑아주는 코드를 작성하고 클라이언트 개발자분들과 공유하여 가벼운 api 문서 역할을 할 수 있도록 하였습니다.
 2. 클라이언트 개발자마자 local server를 띄워주는 shell script를 작성하여 공유하였습니다. 기존 develop서버에 문제가 있으면 클라이언트 개발자 전원의 작업이 홀드되는 문제를 없앴습니다.	
+</div>
 	
 
 ## 포트폴리오 (개인)
-### 웹 유머 게시물 뷰어 서비스 쓰끄롤 (2019.04-)
+<details><summary>웹 유머 게시물 뷰어 서비스 쓰끄롤 (2019.04-)</summary></details>
+<div markdown="1">
 > 개발 인원 : 1인  
 > 클라이언트 환경 : vuejs  
 > 백엔드 환경 : flask, postgresql, sqlalchemy + alembic, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [S3](https://aws.amazon.com/s3), [RDS](https://aws.amazon.com/rds), [Route53](https://aws.amazon.com/route53), [CloudFront](https://aws.amazon.com/cloudfront), [CloudFlare](https://www.cloudflare.com/)]  
@@ -93,12 +98,14 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 > 서비스 주소 : http://www.sscroll.net  
 
  기존 커뮤니티들의 유머 게시물들을 모바일에서 보기가 어렵다는점에서 아이디어가 떠올랐습니다. 기본적인 데이터는 웹 게시물들을 크롤링해서 DB에 쌓아두고, 이미지들은 S3에 저장하여 클라이언트에서 참조하는 방식으로 개발하였습니다.
+ </div>
 
-### 비트코인 재정거래 봇 (2017.11-2018.04)
+<details><summary>비트코인 재정거래 봇 (2017.11-2018.04)</summary></details>
 > 개발 인원 : 1인  
 > 개발 환경 : python  
 
  KRW시장과 BTC시장의 가격차이를 이용한 거래 로직을 적용하여 수익을 발생시키는 트레이딩 봇을 만들었습니다.
+</details>
 
 ## 학력
 세종대학교 컴퓨터공학과 휴학 (2014.03 -)  
