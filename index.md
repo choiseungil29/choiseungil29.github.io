@@ -18,7 +18,7 @@ author_profile: true
 * 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
 
 ## 썸머 (2018.07 - 2019.04)
-<details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary>
+<details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary></details>
 <div markdown="1">
 > 개발 인원 : 2인  
 > 클라이언트 환경 : vue  
@@ -30,7 +30,6 @@ author_profile: true
  회원사 내에서 테스트했을 때 유저의 몰 진입 대비 주문 전환율이 10%정도로 나타나기도 했습니다.  
 해당 서비스의 서버와 백오피스 클라이언트를 개발하였습니다. 프라이빗 몰 클라이언트는 Cafe24 서비스를 활용했습니다.  
 </div>
-</details>
 
 <details><summary>AWS 비용 최적화 (2018.10)</summary>
 <div markdown="1">
@@ -38,7 +37,7 @@ author_profile: true
 </div>
 </details>
 
-<details><summary>쇼핑몰 플러그인 프로젝트 1mm 클라이언트/백엔드 개발</summary><details>
+<details><summary>쇼핑몰 플러그인 프로젝트 1mm 클라이언트/백엔드 개발</summary>
 <div markdown="1">
 > 개발 인원 : 3인  
 > 클라이언트 환경 : vue, nuxt  
@@ -51,9 +50,10 @@ author_profile: true
 1. nuxt client를 vue로 대체하고, api서버만 남겨두어 nuxt서버와 api서버 사이에서 어느곳에 작성해야할지에 대한 고민비용을 줄였습니다.
 2. cafe24 api만들 처리하고 돌려주는 공용 cafe24 api서버를 만들었습니다. 플러그인을 만들때마다 중복적으로 작성해야 하는 코드들을 작성할 필요가 없게 되었습니다.
 </div>	
+</details>
 
 ## 블루홀 (2017.11 - 2018.02)
-<details><summary>Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축</summary></details>
+<details><summary>Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축</summary>
 <div markdown="1">
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 1명  
 > 클라이언트 환경 : Unity, C# Protobuf  
@@ -69,9 +69,10 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 
 4. 클라이언트에서 재화 발생 event나 등등의 event가 발생하면 클라이언트에서는 선 반영을 하고, event list를 서버 요청마다 request header에 실어 보내는 방법을 제안하고 적용하였습니다. 이것으로 기존 방치형 게임들의 문제였던 재화 버그 & 스피드핵 해결할 수 있게 되었습니다.	
 </div>
+</details>
 	
 ## 이노스파크 (2016.11 - 2017.11)
-<details><summary>Android/iOS 방치형 게임 '환생기사단' API 개발</summary></details>
+<details><summary>Android/iOS 방치형 게임 '환생기사단' API 개발</summary>
 <div markdown="1">
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 2명  
 > 클라이언트 환경 : Unity, C#  
@@ -86,10 +87,10 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 1. api마다 테스트하고 docstring을 남겨두었습니다. 그리고 이를 뽑아주는 코드를 작성하고 클라이언트 개발자분들과 공유하여 가벼운 api 문서 역할을 할 수 있도록 하였습니다.
 2. 클라이언트 개발자마자 local server를 띄워주는 shell script를 작성하여 공유하였습니다. 기존 develop서버에 문제가 있으면 클라이언트 개발자 전원의 작업이 홀드되는 문제를 없앴습니다.	
 </div>
-	
+</details>
 
 ## 포트폴리오 (개인)
-<details><summary>웹 유머 게시물 뷰어 서비스 쓰끄롤 (2019.04-)</summary></details>
+<details><summary>웹 유머 게시물 뷰어 서비스 쓰끄롤 (2019.04-)</summary>
 <div markdown="1">
 > 개발 인원 : 1인  
 > 클라이언트 환경 : vuejs  
@@ -98,14 +99,16 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 > 서비스 주소 : http://www.sscroll.net  
 
  기존 커뮤니티들의 유머 게시물들을 모바일에서 보기가 어렵다는점에서 아이디어가 떠올랐습니다. 기본적인 데이터는 웹 게시물들을 크롤링해서 DB에 쌓아두고, 이미지들은 S3에 저장하여 클라이언트에서 참조하는 방식으로 개발하였습니다.
- </div>
+</div>
+</details>
 
-<details><summary>비트코인 재정거래 봇 (2017.11-2018.04)</summary></details>
+<details><summary>비트코인 재정거래 봇 (2017.11-2018.04)</summary>
 > 개발 인원 : 1인  
 > 개발 환경 : python  
 
  KRW시장과 BTC시장의 가격차이를 이용한 거래 로직을 적용하여 수익을 발생시키는 트레이딩 봇을 만들었습니다.
 </div>
+</details>
 
 ## 학력
 세종대학교 컴퓨터공학과 휴학 (2014.03 -)  
