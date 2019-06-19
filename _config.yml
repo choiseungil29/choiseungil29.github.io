@@ -112,7 +112,7 @@ author:
   location         : "서울시 강남구"
   email            : "choiseungil29@gmail.com"
   links:
-    - label: "Email"
+    - label: "choiseungil29@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
