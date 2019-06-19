@@ -103,6 +103,7 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 </details>
 
 <details><summary>비트코인 재정거래 봇 (2017.11-2018.04)</summary>
+<div markdown="1">
 > 개발 인원 : 1인  
 > 개발 환경 : python  
 
