@@ -15,7 +15,7 @@ author_profile: true
 * 웹 서버 : Nginx
 * 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
 * 개발 도구 : Vim, Git
-* 그 외 : AWS(EC2, RDS, Lambda, S3, ...)
+* 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
 
 ## 썸머 (2018.07 - 2019.04)
 ### 주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)
