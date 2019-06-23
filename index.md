@@ -135,5 +135,8 @@ SK 앱잼 우수상 수상 (2013)
 새싹기업 우수팀 선정 및 미국 연수 (2012)  
  * Cocos2d-x를 사용하여 2D 아케이드 게임 버티고를 기획 및 개발하였습니다.  
 
-소프트웨어 마에스트로 3기 멘티 (2012)  
- * Youtube API와 Music Metadata API를 매쉬업한 무료 음원 스트리밍 웹서비스 워터멜론을 기획 및 개발하였습니다.  
+<details><summary>소프트웨어 마에스트로 3기 멘티 (2012)</summary>>
+<div markdown="1">
+Youtube API와 Music Metadata API를 매쉬업한 무료 음원 스트리밍 웹서비스 워터멜론을 기획 및 개발하였습니다.  
+</div>
+</details>
