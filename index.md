@@ -124,7 +124,7 @@ Windows 데스크탑과 모바일에서 OCR 기술을 활용해 사용자의 �
 </div>
 </details>
 
-<details><summary>KWC 동상 수상 (2013)</summary>
+<details open><summary>KWC 동상 수상 (2013)</summary>
 <div markdown="1">
 Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기획 및 개발하였습니다.  
 </div>
