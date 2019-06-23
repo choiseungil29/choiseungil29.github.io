@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "clogic"
+title                    : "최 승일"
 title_separator          : "-"
-name                     : "최 승일"
+name                     : "clogic"
 description              : "하지 않아도 되는 일을 하지 않는 것"
 url                      : "https://choiseungil29.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
