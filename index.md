@@ -115,7 +115,7 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 <details><summary>무료 음원 스트리밍 서비스 워터멜론 서버 개발 (2012)</summary>
 <div markdown="1">
 > 개발 인원 : 2인
-> 개발 환경 : Flask, Jinja
+> 개발 환경 : Flask, Jinja  
  Youtube API와 Music Metadata API를 매쉬업하여 무료 음원 스트리밍 웹서비스 워터멜론을 기획 및 개발하였습니다.  
 </div>
 </details>
