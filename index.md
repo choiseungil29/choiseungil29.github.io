@@ -124,6 +124,7 @@ Windows 데스크탑과 모바일에서 OCR 기술을 활용해 사용자의 �
 </div>
 </details>
 <details open><summary>SK 앱잼 우수상 수상 (2014)</summary>
+</details>
 <br/>
 <span>KWC 동상 수상 (2013)</span>
 <details open><summary>smarteen app challenge 우수상 (2013)</summary>
