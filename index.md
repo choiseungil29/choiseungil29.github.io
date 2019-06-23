@@ -123,15 +123,15 @@ NHN NEXT 자퇴 (2014-2015)
 Windows 데스크탑과 모바일에서 OCR 기술을 활용해 사용자의 일상에서 주로 사용되는 컨텐츠에 기반해 맞춤형 언어 학습 기능을 제공하는 Wordpedia를 기획 및 개발하였습니다.  
 </div>
 </details>
-SK 앱잼 우수상 수상 (2014)  
-KWC 동상 수상 (2013)  
+<p>SK 앱잼 우수상 수상 (2014)</p>
+<p>KWC 동상 수상 (2013)</p>
 <details><summary>smarteen app challenge 우수상 (2013)</summary>
 <div markdown="1">
 Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기획 및 개발하였습니다.  
 </div>
 </details>
-SK 앱잼 우수상 수상 (2013)  
-청년 프론티어 창업지원사업 선정 (2012)  
+<p>SK 앱잼 우수상 수상 (2013)</p>
+<p>청년 프론티어 창업지원사업 선정 (2012)</p>
 <details><summary>새싹기업 우수팀 선정 및 미국 연수 (2012)</summary>
 <div markdown="1">
 Cocos2d-x를 사용하여 2D 아케이드 게임 버티고를 기획 및 개발하였습니다.  
