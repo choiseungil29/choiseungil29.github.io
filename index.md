@@ -114,8 +114,13 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 
 ## 학력
 세종대학교 컴퓨터공학과 휴학 (2014.03 -)  
-NHN NEXT 자퇴 (2014-2015)  
 한국 애니메이션 고등학교 컴퓨터 게임제작과 졸 (2011.03 - 2014.02)  
+
+## 대외활동
+NHN NEXT (2014-2015)  
+청년 프론티어 창업지원사업 선정 (2012)  
+새싹기업 우수팀 선정 및 미국 연수 (2012)  
+소프트웨어 마에스트로 3기 멘티 (2012)  
 
 ## 수상
 <details open><summary>이매진컵 한국 파이널 라운드 진출 (2015)</summary>
@@ -133,18 +138,6 @@ Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기�
 <details open><summary>smarteen app challenge 우수상 (2013)</summary>
 <div markdown="1">
 Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기획 및 개발하였습니다.  
-</div>
-</details>
-
-<details open><summary>청년 프론티어 창업지원사업 선정 (2012)</summary>
-<div markdown="1">
-Cocos2d-x를 사용하여 2D 아케이드 게임 버티고를 기획 및 개발하였습니다.  
-</div>
-</details>
-
-<details open><summary>새싹기업 우수팀 선정 및 미국 연수 (2012)</summary>
-<div markdown="1">
-Cocos2d-x를 사용하여 2D 아케이드 게임 버티고를 기획 및 개발하였습니다.  
 </div>
 </details>
 
