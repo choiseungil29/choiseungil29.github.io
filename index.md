@@ -10,8 +10,8 @@ author_profile: true
 ## 개발 환경
 
 * 언어: Python, Javascript, C/C++, Java
-* 웹 프레임워크 : Flask, Koa
-* 프론트 : Vue, Jinja
+* 웹 프레임워크 : Flask, Node, Koa
+* 웹 프론트 : Vue, Jinja
 * 웹 서버 : Nginx
 * 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
 * 개발 도구 : Vim, Git, tmux, zsh, ...
