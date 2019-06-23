@@ -112,6 +112,14 @@ codedeploy를 도입하여 자동 배포 환경을 구축하여 배포와 테스
 </div>
 </details>
 
+<details><summary>무료 음원 스트리밍 서비스 워터멜론 서버 개발 (2012)</summary>
+<div markdown="1">
+> 개발 인원 : 2인
+> 개발 환경 : Flask, Jinja
+ Youtube API와 Music Metadata API를 매쉬업하여 무료 음원 스트리밍 웹서비스 워터멜론을 기획 및 개발하였습니다.  
+</div>
+</details>
+
 ## 학력
 세종대학교 컴퓨터공학과 휴학 (2014.03 -)  
 한국 애니메이션 고등학교 컴퓨터 게임제작과 졸 (2011.03 - 2014.02)  
@@ -138,11 +146,5 @@ Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기�
 <details open><summary>smarteen app challenge 우수상 (2013)</summary>
 <div markdown="1">
 Android SDK를 사용하여 안드로이드 앱 작곡 서비스 DRUZIC을 기획 및 개발하였습니다.  
-</div>
-</details>
-
-<details open><summary>소프트웨어 마에스트로 3기 멘티 (2012)</summary>
-<div markdown="1">
-Youtube API와 Music Metadata API를 매쉬업하여 무료 음원 스트리밍 웹서비스 워터멜론을 기획 및 개발하였습니다.  
 </div>
 </details>
