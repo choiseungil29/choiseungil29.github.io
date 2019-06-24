@@ -41,7 +41,7 @@ author_profile: true
 <div markdown="1">
 
 
- 사내 AWS계정의 월간 비용이 400만원을 넘는 시점이 있었습니다. EC2와 RDS의 사용중인 인스턴스의 CPU Usage를 조사하고 스펙을 조정함으로써 비용을 절감했습니다. S3에서도 CloudFront를 붙여 월간 비용을 200만원가량 절감했습니다.
+ 사내 AWS계정의 월간 비용이 400만원을 넘는 시점이 있었습니다. EC2와 RDS의 사용중인 인스턴스의 CPU Utilization를 조사하고 스펙을 조정함으로써 비용을 절감했습니다. S3에서도 CloudFront를 붙여 월간 비용을 200만원가량 절감했습니다.
 </div>
 </details>
 
