@@ -36,7 +36,10 @@ author_profile: true
 </details>
 
 <details><summary>AWS 비용 최적화 (2018.10)</summary>
+
+
 <div markdown="1">
+
 
  사내 AWS계정의 월간 비용이 400만원을 넘는 시점이 있었습니다. EC2와 RDS이 과하게 사용되어지는 부분을 조사하여 스펙을 조정함으로써 비용을 절감했습니다. S3에서도 CloudFront를 붙여 월간 비용을 200만원가량 절감했습니다.
 </div>
