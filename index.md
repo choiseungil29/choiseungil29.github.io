@@ -103,7 +103,7 @@ author_profile: true
 > 클라이언트 환경 : vuejs  
 > 백엔드 환경 : flask, postgresql, sqlalchemy + alembic, Amazon Web Service : [[EC2](https://aws.amazon.com/ec2), [S3](https://aws.amazon.com/s3), [RDS](https://aws.amazon.com/rds), [Route53](https://aws.amazon.com/route53), [CloudFront](https://aws.amazon.com/cloudfront), [CloudFlare](https://www.cloudflare.com/)]  
 > 크롤러 환경 : python, bs4    
-> 서비스 주소 : http://www.sscroll.net  
+> [서비스 주소](https://www.sscroll.net)  
 
   기존 커뮤니티들의 유머 게시물들을 모바일에서 보기가 어렵다는점에서 아이디어가 떠올랐습니다. 기본적인 데이터는 웹 게시물들을 크롤링해서 DB에 쌓아두고, 이미지들은 S3에 저장하여 클라이언트에서 참조하는 방식으로 개발하였습니다.
 </div>
