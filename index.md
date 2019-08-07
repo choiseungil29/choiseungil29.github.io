@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 ---
 최 승일  
-생년월일 : 1996. 11. 03  
 연락처 : 010-9034-5202  
 이메일 : choiseungil29@gmail.com
 
@@ -14,8 +13,10 @@ author_profile: true
 * 웹 프론트 : Vue, Jinja
 * 웹 서버 : Nginx
 * 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
-* 개발 도구 : Vim, Git, tmux, zsh, ...
+* 개발 도구 : VSCode, Vim, Git, tmux, zsh, ...
 * 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
+
+## 비바 리퍼블리카 (2019.07 - )
 
 ## 썸머 (2018.07 - 2019.04)
 <details><summary>주문완료 페이지 트래픽 재활용 프로젝트 Loopsum의 API 서버 및 백오피스 개발 (2018.11)</summary>
