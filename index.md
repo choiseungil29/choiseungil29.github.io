@@ -63,7 +63,7 @@ author_profile: true
 </div>	
 </details>
 
-## 크래프톤 (2017.11 - 2018.02)
+## 크래프톤(구 블루홀) (2017.11 - 2018.02)
 <details><summary>Android/iOS 방치형 게임 '포켓 크루' API 개발 및 서버 환경 구축</summary>
 <div markdown="1">
 > 개발 인원 : 클라이언트 개발자 3명, 서버 개발자 1명  
