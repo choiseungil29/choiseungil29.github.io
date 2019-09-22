@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 최 승일  
-연락처 : 010-9034-5202  
+연락처 : 010-9034-5202   
 이메일 : choiseungil29@gmail.com
 
 ## 개발 환경
