@@ -10,14 +10,26 @@ author_profile: true
 ## 개발 환경
 
 - 언어: Python, Javascript, C/C++, Java
-- 웹 프레임워크 : Flask, Node, Koa
-- 웹 프론트 : Vue, Jinja
+- 웹 프레임워크 : Django, FastAPI, Flask, Node, Koa
+- 웹 프론트 : Vue, React
 - 웹 서버 : Nginx
-- 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite, SQLAlchemy
-- 개발 도구 : VSCode, Vim, Git, tmux, zsh, ...
-- 그 외 : AWS(EC2, RDS, Lambda, S3, ...), Puppeteer, BeautifulSoup4, ...
+- 데이터베이스 : MySQL, PostgreSQL, Redis, Memcached, SQLite
 
-## 비바 리퍼블리카 (2019.07 - )
+## 언박서즈 (2024.03 - 2024.05)
+
+<details><summary>AI 프로필 서비스 Concept 개발</summary>
+<div markdown="1">
+> 개발 인원 : 프론트 2인, 서버 2인
+> 클라이언트 환경 : Flutter
+> 백엔드 환경 : FastAPI, PostgreSQL
+
+FastAPI를 이용한 서버 개발
+비용 최적화 관점에서의 AWS 인프라 최적화를 담당했습니다
+
+</div>
+</details>
+
+## 비바 리퍼블리카 (2019.07 - 2024.02)
 
 <details><summary>노션 컨텐츠 to static page 서비스 TCS 서버 및 어드민 개발 (2022.07-)</summary>
 <div markdown="1">
